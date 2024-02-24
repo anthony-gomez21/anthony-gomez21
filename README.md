@@ -2,7 +2,6 @@
 <h1 align="center">Buenas, me llamo Anthony Gómez</h1>
 <h3 align="center">Soy desarrollador Frontend</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devboyarif&label=Profile%20views&color=0e75b6&style=flat" alt="devboyarif" /> </p>
 
 - 🔭 I’m currently working on [Zakirsoft](https://github.com/zakirsoft)
 
