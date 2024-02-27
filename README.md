@@ -2,13 +2,11 @@
 <h1 align="center">Buenas, me llamo Anthony Gómez</h1>
 <h3 align="center">Soy desarrollador Frontend</h3>
 
-- 🔭 I’m currently working on [Zakirsoft](https://github.com/zakirsoft)
+- 🌍 Me encuentro localizado en Canelones, Uruguay.
 
-- 🌱 I’m currently learning **Cloud Server, Typescript,**
+- ✉️ Puedes contactarme en anthonygomezdev@gmail.com
 
-- 👨‍💻 All of my projects are available at [https://devarif.co/portfolio](https://devarif.co/portfolio)
-
-- 📫 How to reach me **devboyarif@gmail.com**
+- 👨‍💻 Este es mi portafolio => https://anthonygomez-portfolio.vercel.app/
 
 <h3 align="center">Connect with me:</h3>
 
