@@ -1,14 +1,12 @@
-<img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
+<img width="100%" height="auto" src="anthony.jpeg" height="175px"/>
 <h1 align="center">Buenas, me llamo Anthony Gómez</h1>
 <h3 align="center">Soy desarrollador Frontend</h3>
-
 
 - 🔭 I’m currently working on [Zakirsoft](https://github.com/zakirsoft)
 
 - 🌱 I’m currently learning **Cloud Server, Typescript,**
 
 - 👨‍💻 All of my projects are available at [https://devarif.co/portfolio](https://devarif.co/portfolio)
-
 
 - 📫 How to reach me **devboyarif@gmail.com**
 
