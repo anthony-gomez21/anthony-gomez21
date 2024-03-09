@@ -11,7 +11,7 @@
 <h3 align="center">Connect with me:</h3>
 
  <p align="center">
-<a href="https://dev.to/devboyarif" target="blank"><img  width="250" height="80" align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="devboyarif" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anthony-gomez-471b502a8/" target="blank"><img  width="250" height="80" align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="devboyarif" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Lenguajes y herramientas Tools:</h3>
